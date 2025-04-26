@@ -53,7 +53,7 @@ do
                     {
                         Title = "Yes",
                         Callback = function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/xQuartyx/QuartyzScript/refs/heads/main/Block%20Spin/Default.lua"))()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/xQuartyx/QuartyzScript/41c12a2d0121b00500101f71c4547fe67d9affaf/Block%20Spin/Default.lua"))()
                         end
                     },
                     {
